@@ -42,6 +42,14 @@ CuraMind AI addresses the above challenges with a multifaceted solution:
 - Predictive treatment and hospital recommendations
 
 ## Team
+Christo Pananjickal Baby
+Manu Mathew
+Jahnavi Pakanati
+Kumari Nikitha Singh
+Srinu Babu Rai 
+
+
+
 
 
 
