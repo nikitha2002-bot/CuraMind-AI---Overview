@@ -1,12 +1,23 @@
-CuraMind-AI---Overview
+# Project Overview #
 
-## Project Name
-CuraMind AI
+## CuraMind AI
+
+
+
+![Image Jun 29, 2025, 10_06_52 PM-1](https://github.com/user-attachments/assets/69498df2-181c-4b59-9205-598817e945da)
+
+
 
 ## Project Description
-CuraMind AI is an intelligent healthcare software solution developed to streamline and automate medical coding and insurance claims processing. It leverages advanced Artificial Intelligence (AI) and Machine Learning (ML) algorithms to reduce manual workload, improve accuracy, and enable faster decision-making. CuraMind AI serves medical coders, insurers, patients, and hospital administrators through an integrated platform that includes code extraction, claim recommendations, fraud detection, and predictive analytics for better hospital and treatment insights.
+CuraMind AI is an intelligent healthcare software solution developed to streamline and automate medical coding and insurance claims processing. It leverages advanced Artificial Intelligence (AI) and Machine Learning (ML) algorithms to reduce manual workload, improve accuracy, and enable faster decision-making. CuraMind AI serves medical coders, insurers, patients, and hospital administrators through an integrated platform that includes code extraction, claim recommendations, fraud detection, and predictive analytics for better hospital and treatment insights.It can be used by patients to get best hospitals and treatment suggestions. It can be used by medical insurance companies to generate medical codes to grant insurance with help of AI. It can be used in hospitals to get quick summaries of patients which will be helpful incase of any emergency situations. 
 
-## What is the Issue the Project is Trying to Address?
+## Product Vision Board
+
+
+![Vision board](https://github.com/user-attachments/assets/3cbdff77-e6b1-48c8-acc7-f1495b135c9c)
+
+
+## What is the Issue that we are Trying to Address?
 The healthcare sector struggles with several inefficiencies in claim management and medical documentation:
 - Manual coding of medical records is error-prone and time-consuming.
 - Insurance companies experience delays in claims processing, with limited fraud detection.
@@ -41,7 +52,8 @@ CuraMind AI addresses the above challenges with a multifaceted solution:
 - Role-specific dashboards with secure access
 - Predictive treatment and hospital recommendations
 
-## Team
+## Team Members
+
 Christo Pananjickal Baby
 
 Manu Mathew
