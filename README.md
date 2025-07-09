@@ -4,7 +4,7 @@
 
 
 
-![Image Jun 29, 2025, 10_06_52 PM-1](https://github.com/user-attachments/assets/69498df2-181c-4b59-9205-598817e945da)
+   ![Image Jun 29, 2025, 10_06_52 PM-1](https://github.com/user-attachments/assets/69498df2-181c-4b59-9205-598817e945da)
 
 
 
@@ -51,6 +51,14 @@ CuraMind AI addresses the above challenges with a multifaceted solution:
 - Real-time fraud detection with anomaly tracking
 - Role-specific dashboards with secure access
 - Predictive treatment and hospital recommendations
+
+  ## Future Plans and Roadmap
+- **Integration with Telemedicine Platforms**: Allow patients to receive personalized healthcare recommendations based on teleconsultation data.
+- **Integration with AI-powered Diagnostic Tools**: Incorporating diagnostic assistance features using AI for improved decision support.
+- **Mobile App Expansion**: Developing full mobile support for patients, coders, and insurance agents on both iOS and Android platforms.
+- **Machine Learning Model Enhancement**: Continuous improvement of fraud detection and medical code extraction using advanced ML techniques.
+- **Global Expansion**: Scaling the platform for multi-country support, adapting to different insurance models and medical coding systems.
+
 
 ## Team Members
 
